@@ -1,4 +1,4 @@
-#Modify Icons using ImageMagick 
+# Modify Icons using ImageMagick 
 
 
 * Install ImageMagick
