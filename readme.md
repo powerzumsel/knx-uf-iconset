@@ -6,3 +6,5 @@
 
 *https://knx-user-forum.de/forum/playground/knx-uf-iconset*
 
+
+"4domovea" : Domovea kinda style of icons to use in domovea client/app
