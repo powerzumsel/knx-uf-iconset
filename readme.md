@@ -9,4 +9,4 @@
 
 4domovea : Domovea kinda style of icons to use in domovea client/app
 
-![App Screen](https://github.com/powerzumsel/knx-uf-iconset/4domovea/media/app-screen.png)
+![App Screen](/4domovea/media/app-screen.png)
