@@ -7,5 +7,6 @@
 *https://knx-user-forum.de/forum/playground/knx-uf-iconset*
 
 
-"4domovea" : Domovea kinda style of icons to use in domovea client/app
-![App Screen](https://github.com/powerzumsel/knx-uf-iconset/tree/master/4domovea/media/app-screen.png)
+4domovea : Domovea kinda style of icons to use in domovea client/app
+
+![App Screen](https://github.com/powerzumsel/knx-uf-iconset/4domovea/media/app-screen.png)
